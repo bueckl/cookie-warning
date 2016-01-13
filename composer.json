@@ -1,0 +1,22 @@
+{
+"name": "bueckl/silverstripe-cookie-warning",
+"description": "Cookie warnings for Silverstripe Projects.",
+"keywords": [
+  "silverstripe",
+  "cookies"
+],
+"type": "silverstripe-module",
+"require": {
+    "silverstripe/cms": "3.1.*"
+},
+"extra": {
+    "installer-name": "cookie-warning"
+},
+"license": "BSD-3-Clause",
+"authors": [
+    {
+        "name": "Antonia Lorente",
+        "email": "antonia@guelden.org"
+    }
+]
+}
