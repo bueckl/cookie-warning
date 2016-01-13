@@ -6,8 +6,8 @@
   "cookies"
 ],
 "type": "silverstripe-module",
+"minimum-stability": "stable",
 "require": {
-    "silverstripe/cms": "3.1.*"
 },
 "extra": {
     "installer-name": "cookie-warning"
