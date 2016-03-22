@@ -30,6 +30,6 @@ public static function CookieWarningShown() {
 'cookie-warning/css/CookieWarning.css'
 
 
-3. Add before </html> :
+3. Add to template:
 
 <% include CookieWarning %>
